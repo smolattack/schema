@@ -142,7 +142,7 @@ In this case, the type of `myfield` is widened to `string | undefined`, which me
 To install the **alpha** version:
 
 ```
-npm install @effect/schema
+npm install fast-chec effect  @effect/schema
 ```
 
 **Warning**. This package is primarily published to receive early feedback and for contributors, during this development phase we cannot guarantee the stability of the APIs, consider each release to contain breaking changes.
